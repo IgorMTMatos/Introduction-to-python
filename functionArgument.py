@@ -3,4 +3,4 @@ def helloSomebody(name):
         print("Hello " + x)
 
 
-helloSomebody(["Igor", "Martim", "Inês"])
+#helloSomebody(["Igor", "Martim", "Inês"])
